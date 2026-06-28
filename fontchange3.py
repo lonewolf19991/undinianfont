@@ -12,7 +12,7 @@ from fontTools.ttLib import TTFont
 from fontTools.ttLib.tables._g_l_y_f import Glyph, GlyphComponent
 from fontTools.feaLib.builder import addOpenTypeFeaturesFromString
 
-CONSONANTS=['b','d','f','l','m','n','p','s','t','ʁ','ɾ','ʃ','ʒ','ʎ','z']
+CONSONANTS=['b','d','f','l','m','n','p','s','t','g','r','h','j','y','z']
 VOWELS=['a','e','i','o','u','v','c','w','x','q']
 
 POSITIONING_RULES={
@@ -25,11 +25,11 @@ POSITIONING_RULES={
  'p':{'default':{'x':550,'y':450,'scale':0.55}},
  's':{'default':{'x':500,'y':300,'scale':0.55}},
  't':{'default':{'x':500,'y':700,'scale':0.40}},
- 'ʁ':{'default':{'x':180,'y':150,'scale':0.65}},
- 'ɾ':{'default':{'x':180,'y':150,'scale':0.65}},
- 'ʃ':{'default':{'x':180,'y':150,'scale':0.65}},
- 'ʒ':{'default':{'x':180,'y':150,'scale':0.65}},
- 'ʎ':{'default':{'x':150,'y':0,'scale':0.65}},
+ 'g':{'default':{'x':550,'y':350,'scale':0.55}},
+ 'r':{'default':{'x':180,'y':150,'scale':0.65}},
+ 'h':{'default':{'x':180,'y':150,'scale':0.65}},
+ 'j':{'default':{'x':180,'y':150,'scale':0.65}},
+ 'y':{'default':{'x':150,'y':0,'scale':0.65}},
  'z':{'default':{'x':0,'y':-120,'scale':0.65}},
 }
 
