@@ -22,7 +22,7 @@ POSITIONING_RULES={
  'l':{'default':{'x':50,'y':250,'scale':0.55}},
  'm':{'default':{'x':480,'y':350,'scale':0.55}},
  'n':{'a':{'x':0,'y':750,'scale':0.65}, 'default':{'x':500,'y':20,'scale':0.55}},
- 'p':{'default':{'x':180,'y':150,'scale':0.65}},
+ 'p':{'default':{'x':550,'y':450,'scale':0.55}},
  's':{'default':{'x':500,'y':300,'scale':0.55}},
  't':{'default':{'x':180,'y':150,'scale':0.65}},
  'ʁ':{'default':{'x':180,'y':150,'scale':0.65}},
