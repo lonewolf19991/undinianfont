@@ -24,7 +24,7 @@ POSITIONING_RULES={
  'n':{'a':{'x':0,'y':750,'scale':0.65}, 'default':{'x':500,'y':20,'scale':0.55}},
  'p':{'default':{'x':550,'y':450,'scale':0.55}},
  's':{'default':{'x':500,'y':300,'scale':0.55}},
- 't':{'default':{'x':180,'y':150,'scale':0.65}},
+ 't':{'default':{'x':500,'y':700,'scale':0.40}},
  'ʁ':{'default':{'x':180,'y':150,'scale':0.65}},
  'ɾ':{'default':{'x':180,'y':150,'scale':0.65}},
  'ʃ':{'default':{'x':180,'y':150,'scale':0.65}},
