@@ -26,7 +26,7 @@ POSITIONING_RULES={
  's':{'default':{'x':500,'y':300,'scale':0.55}},
  't':{'default':{'x':500,'y':700,'scale':0.40}},
  'g':{'default':{'x':550,'y':350,'scale':0.45}},
- 'r':{'default':{'x':250,'y':50,'scale':0.30}},
+ 'r':{'default':{'x':450,'y':400,'scale':0.40}},
  'h':{'default':{'x':180,'y':150,'scale':0.65}},
  'j':{'default':{'x':180,'y':150,'scale':0.65}},
  'y':{'default':{'x':150,'y':0,'scale':0.65}},
